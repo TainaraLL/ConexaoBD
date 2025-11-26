@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2024202060020\\Documents\\ConexaoBD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D24D4C2-1E62-4737-80FD-8825D07101C7}|ConexaoBD\\ConexaoBD.csproj|c:\\users\\2024202060020\\documents\\conexaobd\\conexaobd\\interface\\ifuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D24D4C2-1E62-4737-80FD-8825D07101C7}|ConexaoBD\\ConexaoBD.csproj|solutionrelative:conexaobd\\interface\\ifuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D24D4C2-1E62-4737-80FD-8825D07101C7}|ConexaoBD\\ConexaoBD.csproj|c:\\users\\2024202060020\\documents\\conexaobd\\conexaobd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D24D4C2-1E62-4737-80FD-8825D07101C7}|ConexaoBD\\ConexaoBD.csproj|solutionrelative:conexaobd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D24D4C2-1E62-4737-80FD-8825D07101C7}|ConexaoBD\\ConexaoBD.csproj|c:\\users\\2024202060020\\documents\\conexaobd\\conexaobd\\utilitarios\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D24D4C2-1E62-4737-80FD-8825D07101C7}|ConexaoBD\\ConexaoBD.csproj|solutionrelative:conexaobd\\utilitarios\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D24D4C2-1E62-4737-80FD-8825D07101C7}|ConexaoBD\\ConexaoBD.csproj|c:\\users\\2024202060020\\documents\\conexaobd\\conexaobd\\dao\\funcionariodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D24D4C2-1E62-4737-80FD-8825D07101C7}|ConexaoBD\\ConexaoBD.csproj|solutionrelative:conexaobd\\dao\\funcionariodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D24D4C2-1E62-4737-80FD-8825D07101C7}|ConexaoBD\\ConexaoBD.csproj|c:\\users\\2024202060020\\documents\\conexaobd\\conexaobd\\models\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D24D4C2-1E62-4737-80FD-8825D07101C7}|ConexaoBD\\ConexaoBD.csproj|solutionrelative:conexaobd\\models\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2024202060020\\Documents\\ConexaoBD\\ConexaoBD\\Program.cs",
+              "RelativeDocumentMoniker": "ConexaoBD\\Program.cs",
+              "ToolTip": "C:\\Users\\2024202060020\\Documents\\ConexaoBD\\ConexaoBD\\Program.cs",
+              "RelativeToolTip": "ConexaoBD\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T23:32:51.647Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IFuncionario.cs",
+              "DocumentMoniker": "C:\\Users\\2024202060020\\Documents\\ConexaoBD\\ConexaoBD\\Interface\\IFuncionario.cs",
+              "RelativeDocumentMoniker": "ConexaoBD\\Interface\\IFuncionario.cs",
+              "ToolTip": "C:\\Users\\2024202060020\\Documents\\ConexaoBD\\ConexaoBD\\Interface\\IFuncionario.cs",
+              "RelativeToolTip": "ConexaoBD\\Interface\\IFuncionario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T23:17:35.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FuncionarioDAO.cs",
+              "DocumentMoniker": "C:\\Users\\2024202060020\\Documents\\ConexaoBD\\ConexaoBD\\DAO\\FuncionarioDAO.cs",
+              "RelativeDocumentMoniker": "ConexaoBD\\DAO\\FuncionarioDAO.cs",
+              "ToolTip": "C:\\Users\\2024202060020\\Documents\\ConexaoBD\\ConexaoBD\\DAO\\FuncionarioDAO.cs",
+              "RelativeToolTip": "ConexaoBD\\DAO\\FuncionarioDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T00:26:40.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\Users\\2024202060020\\Documents\\ConexaoBD\\ConexaoBD\\Models\\Funcionario.cs",
+              "RelativeDocumentMoniker": "ConexaoBD\\Models\\Funcionario.cs",
+              "ToolTip": "C:\\Users\\2024202060020\\Documents\\ConexaoBD\\ConexaoBD\\Models\\Funcionario.cs",
+              "RelativeToolTip": "ConexaoBD\\Models\\Funcionario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T00:13:46.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Conexao.cs",
+              "DocumentMoniker": "C:\\Users\\2024202060020\\Documents\\ConexaoBD\\ConexaoBD\\Utilitarios\\Conexao.cs",
+              "RelativeDocumentMoniker": "ConexaoBD\\Utilitarios\\Conexao.cs",
+              "ToolTip": "C:\\Users\\2024202060020\\Documents\\ConexaoBD\\ConexaoBD\\Utilitarios\\Conexao.cs",
+              "RelativeToolTip": "ConexaoBD\\Utilitarios\\Conexao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T23:39:04.155Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
