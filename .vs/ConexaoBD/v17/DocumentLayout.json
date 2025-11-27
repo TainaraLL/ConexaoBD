@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\2024202060020\\Documents\\ConexaoBD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2D24D4C2-1E62-4737-80FD-8825D07101C7}|ConexaoBD\\ConexaoBD.csproj|c:\\users\\2024202060020\\documents\\conexaobd\\conexaobd\\interface\\ifuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D24D4C2-1E62-4737-80FD-8825D07101C7}|ConexaoBD\\ConexaoBD.csproj|solutionrelative:conexaobd\\interface\\ifuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D24D4C2-1E62-4737-80FD-8825D07101C7}|ConexaoBD\\ConexaoBD.csproj|c:\\users\\2024202060020\\documents\\conexaobd\\conexaobd\\dao\\planodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D24D4C2-1E62-4737-80FD-8825D07101C7}|ConexaoBD\\ConexaoBD.csproj|solutionrelative:conexaobd\\dao\\planodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D24D4C2-1E62-4737-80FD-8825D07101C7}|ConexaoBD\\ConexaoBD.csproj|c:\\users\\2024202060020\\documents\\conexaobd\\conexaobd\\dao\\funcionariodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D24D4C2-1E62-4737-80FD-8825D07101C7}|ConexaoBD\\ConexaoBD.csproj|solutionrelative:conexaobd\\dao\\funcionariodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D24D4C2-1E62-4737-80FD-8825D07101C7}|ConexaoBD\\ConexaoBD.csproj|c:\\users\\2024202060020\\documents\\conexaobd\\conexaobd\\interface\\iplano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D24D4C2-1E62-4737-80FD-8825D07101C7}|ConexaoBD\\ConexaoBD.csproj|solutionrelative:conexaobd\\interface\\iplano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D24D4C2-1E62-4737-80FD-8825D07101C7}|ConexaoBD\\ConexaoBD.csproj|c:\\users\\2024202060020\\documents\\conexaobd\\conexaobd\\models\\plano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D24D4C2-1E62-4737-80FD-8825D07101C7}|ConexaoBD\\ConexaoBD.csproj|solutionrelative:conexaobd\\models\\plano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D24D4C2-1E62-4737-80FD-8825D07101C7}|ConexaoBD\\ConexaoBD.csproj|c:\\users\\2024202060020\\documents\\conexaobd\\conexaobd\\interface\\idao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D24D4C2-1E62-4737-80FD-8825D07101C7}|ConexaoBD\\ConexaoBD.csproj|solutionrelative:conexaobd\\interface\\idao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D24D4C2-1E62-4737-80FD-8825D07101C7}|ConexaoBD\\ConexaoBD.csproj|c:\\users\\2024202060020\\documents\\conexaobd\\conexaobd\\models\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D24D4C2-1E62-4737-80FD-8825D07101C7}|ConexaoBD\\ConexaoBD.csproj|solutionrelative:conexaobd\\models\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2D24D4C2-1E62-4737-80FD-8825D07101C7}|ConexaoBD\\ConexaoBD.csproj|c:\\users\\2024202060020\\documents\\conexaobd\\conexaobd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,14 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2D24D4C2-1E62-4737-80FD-8825D07101C7}|ConexaoBD\\ConexaoBD.csproj|c:\\users\\2024202060020\\documents\\conexaobd\\conexaobd\\utilitarios\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D24D4C2-1E62-4737-80FD-8825D07101C7}|ConexaoBD\\ConexaoBD.csproj|solutionrelative:conexaobd\\utilitarios\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D24D4C2-1E62-4737-80FD-8825D07101C7}|ConexaoBD\\ConexaoBD.csproj|c:\\users\\2024202060020\\documents\\conexaobd\\conexaobd\\dao\\funcionariodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D24D4C2-1E62-4737-80FD-8825D07101C7}|ConexaoBD\\ConexaoBD.csproj|solutionrelative:conexaobd\\dao\\funcionariodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D24D4C2-1E62-4737-80FD-8825D07101C7}|ConexaoBD\\ConexaoBD.csproj|c:\\users\\2024202060020\\documents\\conexaobd\\conexaobd\\models\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D24D4C2-1E62-4737-80FD-8825D07101C7}|ConexaoBD\\ConexaoBD.csproj|solutionrelative:conexaobd\\models\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +42,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\2024202060020\\Documents\\ConexaoBD\\ConexaoBD\\Program.cs",
               "RelativeDocumentMoniker": "ConexaoBD\\Program.cs",
@@ -48,46 +60,85 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "IFuncionario.cs",
-              "DocumentMoniker": "C:\\Users\\2024202060020\\Documents\\ConexaoBD\\ConexaoBD\\Interface\\IFuncionario.cs",
-              "RelativeDocumentMoniker": "ConexaoBD\\Interface\\IFuncionario.cs",
-              "ToolTip": "C:\\Users\\2024202060020\\Documents\\ConexaoBD\\ConexaoBD\\Interface\\IFuncionario.cs",
-              "RelativeToolTip": "ConexaoBD\\Interface\\IFuncionario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "IPlano.cs",
+              "DocumentMoniker": "C:\\Users\\2024202060020\\Documents\\ConexaoBD\\ConexaoBD\\Interface\\IPlano.cs",
+              "RelativeDocumentMoniker": "ConexaoBD\\Interface\\IPlano.cs",
+              "ToolTip": "C:\\Users\\2024202060020\\Documents\\ConexaoBD\\ConexaoBD\\Interface\\IPlano.cs",
+              "RelativeToolTip": "ConexaoBD\\Interface\\IPlano.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T23:17:35.905Z",
+              "WhenOpened": "2025-11-27T00:14:05.044Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
+              "Title": "IDao.cs",
+              "DocumentMoniker": "C:\\Users\\2024202060020\\Documents\\ConexaoBD\\ConexaoBD\\Interface\\IDao.cs",
+              "RelativeDocumentMoniker": "ConexaoBD\\Interface\\IDao.cs",
+              "ToolTip": "C:\\Users\\2024202060020\\Documents\\ConexaoBD\\ConexaoBD\\Interface\\IDao.cs",
+              "RelativeToolTip": "ConexaoBD\\Interface\\IDao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T00:02:00.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlanoDAO.cs",
+              "DocumentMoniker": "C:\\Users\\2024202060020\\Documents\\ConexaoBD\\ConexaoBD\\DAO\\PlanoDAO.cs",
+              "RelativeDocumentMoniker": "ConexaoBD\\DAO\\PlanoDAO.cs",
+              "ToolTip": "C:\\Users\\2024202060020\\Documents\\ConexaoBD\\ConexaoBD\\DAO\\PlanoDAO.cs",
+              "RelativeToolTip": "ConexaoBD\\DAO\\PlanoDAO.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAHgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T23:53:48.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "FuncionarioDAO.cs",
               "DocumentMoniker": "C:\\Users\\2024202060020\\Documents\\ConexaoBD\\ConexaoBD\\DAO\\FuncionarioDAO.cs",
               "RelativeDocumentMoniker": "ConexaoBD\\DAO\\FuncionarioDAO.cs",
               "ToolTip": "C:\\Users\\2024202060020\\Documents\\ConexaoBD\\ConexaoBD\\DAO\\FuncionarioDAO.cs",
               "RelativeToolTip": "ConexaoBD\\DAO\\FuncionarioDAO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowGIAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-20T00:26:40.845Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
+              "Title": "Plano.cs",
+              "DocumentMoniker": "C:\\Users\\2024202060020\\Documents\\ConexaoBD\\ConexaoBD\\Models\\Plano.cs",
+              "RelativeDocumentMoniker": "ConexaoBD\\Models\\Plano.cs",
+              "ToolTip": "C:\\Users\\2024202060020\\Documents\\ConexaoBD\\ConexaoBD\\Models\\Plano.cs",
+              "RelativeToolTip": "ConexaoBD\\Models\\Plano.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T23:44:46.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Funcionario.cs",
               "DocumentMoniker": "C:\\Users\\2024202060020\\Documents\\ConexaoBD\\ConexaoBD\\Models\\Funcionario.cs",
               "RelativeDocumentMoniker": "ConexaoBD\\Models\\Funcionario.cs",
               "ToolTip": "C:\\Users\\2024202060020\\Documents\\ConexaoBD\\ConexaoBD\\Models\\Funcionario.cs",
               "RelativeToolTip": "ConexaoBD\\Models\\Funcionario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-20T00:13:46.476Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Conexao.cs",
               "DocumentMoniker": "C:\\Users\\2024202060020\\Documents\\ConexaoBD\\ConexaoBD\\Utilitarios\\Conexao.cs",
               "RelativeDocumentMoniker": "ConexaoBD\\Utilitarios\\Conexao.cs",

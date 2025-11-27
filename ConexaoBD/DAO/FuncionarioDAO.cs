@@ -2,13 +2,14 @@
 using ConexaoBD.Models;
 using MySql.Data.MySqlClient;
 using System.ComponentModel;
+using ConexaoBD.Interface;
 
 namespace ConexaoBD.DAO
 
 {
-    internal class FuncionarioDAO // onde vou ter os métodos de acesso com o banco de dados
+    internal class FuncionarioDAO:IDao<Funcionario> // onde vou ter os métodos de acesso com o banco de dados
     {
-        public void Insert(Funcionario funcionario)
+        public void Create(Funcionario funcionario)
         {
             try
             {
@@ -64,7 +65,7 @@ namespace ConexaoBD.DAO
             }
         }
 
-        public void Delete(Funcionario funcionario)
+        public void Delete(int id_funcionario)
         {
             try
             {
@@ -73,7 +74,7 @@ namespace ConexaoBD.DAO
                 using (var conexao = Conexao.Conectar())
                 using (var cmd = new MySqlCommand(sql, conexao))
                 {
-                    cmd.Parameters.AddWithValue("@id_funcionario", funcionario.Id_Funcionario);
+                    cmd.Parameters.AddWithValue("@id_funcionario", id_funcionario);
 
                     var linhasAfestadas = cmd.ExecuteNonQuery();
 
@@ -89,7 +90,7 @@ namespace ConexaoBD.DAO
             }
         }
 
-        public List<Funcionario> List()
+        public List<Funcionario> GetAll()
         {
             List<Funcionario> listFun = new List<Funcionario>();
 
